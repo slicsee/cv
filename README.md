@@ -11,6 +11,6 @@
     <li>yey</li>
     <li>hahaha</li>
   </ol>
-  <marquee scrollamount="1200" direction="right"><img src="C:\Users\sidhb\OneDrive\Pictures\unknown.png" alt="its me" height="300" width="300" > </marquee>
+  <marquee scrollamount="1200" direction="right"><img src="https://static.boredpanda.com/blog/wp-content/uploads/2015/07/smiling-cat-33__605.jpg" alt="its me" height="300" width="300" > </marquee>
 </body>
 </html> 
